@@ -147,7 +147,7 @@ button:hover{
 @media only screen and (max-width: 400px)  {
     .container{
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-column: 1fr;
         margin: 10px;       
     }
     .mainh1{
