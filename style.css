@@ -148,6 +148,8 @@ button:hover{
     .container{
         display: grid;
         grid-template-columns: 100vh;
+        grid-template-rows: 100vh;
+        
     }
     .mainh1{
         font-size: 18px;
