@@ -144,7 +144,7 @@ button:hover{
     cursor: pointer;
     background: linear-gradient(180deg, #7755FF 0%, #6943FF 0.01%, #2F2CE9 100%);
 }
-@media only screen and (max-width: 400px)  {
+@media only screen and (max-width: 600px)  {
     .container{
         display: grid;
         width:100%;
